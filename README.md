@@ -2,6 +2,7 @@
 web scrapping mini project\
 \
 There are two ways to extract data from website\
+\
 1.Use the API of the website(if it exist)\
   For eg: Facebook has Facebook Graph API which allows retrival of data posted on Facebook.\
 2.Access the HTML of the webpage and extract useful information/data from it.\
